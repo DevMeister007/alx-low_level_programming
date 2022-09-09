@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - point of entry and will print
- * respective sizes of specified data types
- * Return - 0 if success otherwise failed
+ * main - point of entry
+ * 
+ * Return: 0 if success otherwise failed
  */
 int main(void)
 {
