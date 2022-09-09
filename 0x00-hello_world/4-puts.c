@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * Main - will print string fed to puts()
+ * main - will print string fed to function
  * Return: 0 upon success
  */
 int main(void)
