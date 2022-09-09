@@ -1,4 +1,5 @@
-#include <stdio.h>
+X#include <stdio.h>
+
 /**
  * Main will print string fed to puts()
  * Return: 0 upon success
