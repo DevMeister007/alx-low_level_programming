@@ -2,15 +2,14 @@
 /**
  * print_numbers - print numbers from 0 to 9
  * followed by  an new line
- * Return: 0 if success, otherwise 0
  */
 void print_numbers(void)
 {
-	int n = 0;
+	int n;
 
-	while (n > 10)
+	while (n < 10)
 	{
-		_putchar(n);
+		_putchar(n + '0');
 		n++;
 	}
 	_putchar('\n');
